@@ -13,6 +13,7 @@
 ## Prep Work
 
 1. Create a new public GitHub Gist (https://gist.github.com/)
+
 2. Create a token with the `gist` scope and copy it. (https://github.com/settings/tokens/new)
 
 ❗️ _Please remember copy this token to a safe place for temporary backup because you will not see it again_
